@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringPhoneBook:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SpringPhoneBook-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SpringPhoneBook:war exploded" />
+    </root>
+  </artifact>
+</component>
